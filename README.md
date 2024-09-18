@@ -1,2 +1,2 @@
 # MagicalCrypticCatalog
-This file is an Xcode playground file that describes three fun-loving cryptids!
+This is an Xcode playground file that describes three fun-loving cryptids!
